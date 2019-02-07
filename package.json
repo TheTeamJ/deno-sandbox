@@ -1,0 +1,17 @@
+{
+  "name": "deno-sandbox-teamj",
+  "version": "1.0.0",
+  "scripts": {
+    "gh-pages": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTeamJ/deno-sandbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/TheTeamJ/deno-sandbox#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
